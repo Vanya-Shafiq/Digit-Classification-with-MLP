@@ -27,6 +27,16 @@ Train a Multilayer Perceptron (MLP) to classify grayscale images of handwritten 
 
 ---
 
+## Repository details
+
+This repository includes: 
+- Notebook file
+- Readme file
+- Confusion matrix 
+- Accuracy vs Epochs graph
+
+---
+
 ## Dataset
 
 - **Name**: MNIST (Modified National Institute of Standards and Technology)
